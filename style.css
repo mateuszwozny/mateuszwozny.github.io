@@ -4,12 +4,35 @@ body {
     padding: 0;
     text-align: center;
     background-color: #0a0f1c;
-    color: white;
+    color: rgb(17 144 183);
 }
 
 header {
     background-color: #121826;
     padding: 15px;
+    border-radius: 70px;
+    display: flex; /* Ustawia elementy w jednej linii */
+    align-items: center; /* Wyrównuje obrazek i tekst pionowo */
+    gap: 10px; /* Dystans między obrazkiem a tytułem */
+}
+    
+header img {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+    
+header h1 {
+    color: rgb(17 144 183);
+    font-size: 30px;
+    margin: 0; /* Usuwa domyślne marginesy */
+}
+    
+nav {
+    margin-left: auto; /* Wypycha menu do prawej strony */
+    padding-right: 15px;
+    font-size: 18px;
 }
 
 nav ul {
@@ -19,11 +42,12 @@ nav ul {
 
 nav ul li {
     display: inline;
-    margin: 0 15px;
+    margin: 0 5px;
+
 }
 
 nav ul li a {
-    color: #4caf50;
+    color: rgb(170 56 63);
     text-decoration: none;
 }
 
@@ -45,8 +69,12 @@ nav ul li a {
     border-radius: 5px;
 }
 
+main {
+    flex: 1; /* Wypycha stopkę na dół */
+}
 footer {
     margin-top: 20px;
     padding: 10px;
     background: #121826;
+    
 }
