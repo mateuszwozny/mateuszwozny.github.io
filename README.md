@@ -26,6 +26,7 @@ W repozytorium znajdziesz:
 - [TryHackMe](./THM/README.md)
 - [HackTheBox](./HTB/README.md)
 - [PortSwigger Academy](./PortSwigger/README.md)
+- [Linki](./Linki/README.md)
 
 ## 🤝 Dla kogo?
 - Dla mnie: narzędzie do monitorowania postępów.  
