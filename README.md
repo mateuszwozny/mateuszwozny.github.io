@@ -24,7 +24,7 @@ W repozytorium znajdziesz:
 
 ## 📂 Platformy
 - [TryHackMe](./THM/README.md)
-- [HackTheBox](./HTB/README.md)
+- [HackTheBox](./HTB/READMY.md)
 - [PortSwigger Academy](./PortSwigger/README.md)
 - [Linki](./Linki/README.md)
 
