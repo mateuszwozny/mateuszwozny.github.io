@@ -20,7 +20,12 @@ To repozytorium pełni rolę:
 W repozytorium znajdziesz:
 - ✅ Rozwiązane zadania i CTF-y  
 - 🔗 Linki do materiałów, które okazały się pomocne  
-- 📝 Notatki i wskazówki krok po kroku  
+- 📝 Notatki i wskazówki krok po kroku
+
+## 📂 Platformy
+- [TryHackMe](./THM/README.md)
+- [HackTheBox](./HTB/README.md)
+- [PortSwigger Academy](./PortSwigger/README.md)
 
 ## 🤝 Dla kogo?
 - Dla mnie: narzędzie do monitorowania postępów.  
