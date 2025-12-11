@@ -10,21 +10,11 @@ To repozytorium pełni rolę:
 - 📚 **Bazy wiedzy** – wrzucam materiały, linki i notatki, które mogą pomóc innym w nauce.  
 - 🛡 **Przygotowania do bug bounty** – buduję solidne podstawy, aby w przyszłości podejmować wyzwania w programach bug bounty.   
 
-## 📂 Zawartość
-W repozytorium znajdziesz:
-- ✅ Rozwiązane zadania i CTF-y  
-- 🔗 Linki do materiałów, które okazały się pomocne  
-- 📝 Notatki i wskazówki krok po kroku
-
 ## 🕹 Platformy CTF - writeups
 - [TryHackMe](./THM/README.md)
 - [HackTheBox](./HTB/READMY.md)
 - [PortSwigger Academy](./PortSwigger/README.md)
 - [Linki](./Linki/README.md)
-
-## 🤝 Dla kogo?
-- Dla mnie: narzędzie do monitorowania postępów.  
-- Dla innych: źródło wiedzy i inspiracji w nauce pentestingu.  
 
 ## 📜 Licencja
 Materiały w repozytorium udostępniam w celach edukacyjnych.  
