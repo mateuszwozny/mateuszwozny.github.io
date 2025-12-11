@@ -16,7 +16,7 @@ W repozytorium znajdziesz:
 - 🔗 Linki do materiałów, które okazały się pomocne  
 - 📝 Notatki i wskazówki krok po kroku
 
-## 🕹 Platformy CTF - writeupy
+## 🕹 Platformy CTF - writeups
 - [TryHackMe](./THM/README.md)
 - [HackTheBox](./HTB/READMY.md)
 - [PortSwigger Academy](./PortSwigger/README.md)
