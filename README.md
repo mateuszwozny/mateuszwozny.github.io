@@ -2,19 +2,13 @@
 
 ## 👋 O mnie
 Cześć, mam na imię **Mateusz**.  
-Na co dzień pracuję jako **tester manualny w banku**, a po godzinach poszerzam swoją wiedzę z zakresu **pentestingu** i bezpieczeństwa aplikacji.
+Na co dzień pracuję jako **tester manualny w banku**, a po godzinach poszerzam swoją wiedzę z zakresu **pentestingu** i bezpieczeństwa aplikacji webowych.
 
 ## 🎯 Cel repozytorium
 To repozytorium pełni rolę:
 - 📌 **Monitora postępu** – dokumentuję zadania i wyzwania, które udało mi się rozwiązać.  
 - 📚 **Bazy wiedzy** – wrzucam materiały, linki i notatki, które mogą pomóc innym w nauce.  
-- 🛡 **Przygotowania do bug bounty** – buduję solidne podstawy, aby w przyszłości podejmować wyzwania w programach bug bounty.  
-
-## 🕹 Platformy, z których korzystam
-- [TryHackMe](https://tryhackme.com/)  
-- [HackTheBox](https://www.hackthebox.com/)  
-- [PortSwigger Academy](https://portswigger.net/web-security)  
-- Inne CTF-y i zadania związane z bezpieczeństwem  
+- 🛡 **Przygotowania do bug bounty** – buduję solidne podstawy, aby w przyszłości podejmować wyzwania w programach bug bounty.   
 
 ## 📂 Zawartość
 W repozytorium znajdziesz:
@@ -22,7 +16,7 @@ W repozytorium znajdziesz:
 - 🔗 Linki do materiałów, które okazały się pomocne  
 - 📝 Notatki i wskazówki krok po kroku
 
-## 📂 Platformy
+## 🕹 Platformy CTF - writeupy
 - [TryHackMe](./THM/README.md)
 - [HackTheBox](./HTB/READMY.md)
 - [PortSwigger Academy](./PortSwigger/README.md)
