@@ -10,11 +10,14 @@ To repozytorium pełni rolę:
 - 📚 **Bazy wiedzy** – wrzucam materiały, linki i notatki, które mogą pomóc innym w nauce.  
 - 🛡 **Przygotowania do bug bounty** – buduję solidne podstawy, aby w przyszłości podejmować wyzwania w programach bug bounty.   
 
-## 🕹 Platformy CTF - writeups
+## 🕹 Platformy CTF 
 - [TryHackMe](./THM/README.md)
 - [HackTheBox](./HTB/READMY.md)
 - [PortSwigger Academy](./PortSwigger/README.md)
 - [Linki](./Linki/README.md)
+
+## 🛠️ Narzędzia
+-[Nmap](./Narzedzia/nmap.md)
 
 ## 📜 Licencja
 Materiały w repozytorium udostępniam w celach edukacyjnych.  
