@@ -17,7 +17,7 @@ To repozytorium pełni rolę:
 - [Linki](./Linki/README.md)
 
 ## 🛠️ Narzędzia
-- [TryHackMe](./Narzedzia/nmap.md)
+- [NMAP](./Narzedzia/nmap.md)
 
 
 ## 📜 Licencja
