@@ -1,4 +1,4 @@
-# Raport z testów penetracyjnych – TryHackMe „Pickle Rick”
+# TryHackMe „Pickle Rick”
 
 ## 1. Informacje ogólne
 - **Cel testów:** Eksploracja podatnej aplikacji webowej w celu uzyskania dostępu do systemu i odnalezienia trzech sekretów Ricka.  
@@ -26,6 +26,6 @@
 
 - **dirbuster:** - narzędzie GUI
 - **komendy Linux:**
-   - cat , less, ls -la , sudo 
+   - cat , less, ls -la , sudo , cd
 
   
