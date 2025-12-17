@@ -1,4 +1,6 @@
-# 1. Podstawowe skanowanie portów w Nmap
+# Zbiór wszystkich narzędzi
+
+- **Nmap:**
 
 ## Polecenie
 ```bash
@@ -47,3 +49,44 @@ nmap -sV -sS -p- -A <adres_IP>
   -sS → szybki i dyskretny SYN scan
   -p- → skan wszystkich portów
   -A → agresywny tryb (OS, wersje, skrypty, traceroute)
+```
+---
+- **gobuster:**  
+  ```bash
+  gobuster dir -u 10.82.166.29 -w /usr/share/dirb/wordlists/common.txt
+  ```
+---
+- **SMB:**
+  Sprawdzenie czy SMB pozwala na dostęp anonimowy
+     ```bash
+  smbclient -L //IP -N
+-L - lista udziałów
+-N - bez hasła (tryb anonymous)
+  ```bash
+    smbclient //IP/Anonymous -N
+    smb: \>
+    smb: \> get plik.txt
+  ```
+---
+- **hydra:**
+    ```bash
+  hydra -l jan -P -u /usr/share/wordlists/rockyou.txt ssh://IP -V (bez -V nie widać postępu skanowania haseł)
+   ```
+---
+- **ssh:**
+    ```bash
+  ssh jan@IP
+   ```
+  ```bash
+  ssh -i id(nazwa klucza) kay@IP
+   ```
+  ---
+- **john:**
+  ```bash
+  ssh2john id > hash.txt
+   ``` 
+   John musi mieć zawartość jako hash i dlatego zamieniamy zwykły tekst na hash
+
+  ```bash
+  john hash.txt --wordlist=/usr/share/wordlists/rockyou.txt
+  ``` 
