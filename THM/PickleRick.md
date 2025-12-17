@@ -17,11 +17,11 @@
 
    
 - **nmap:**  
-  ```html
+  ```bash
   nmap -sV -sS -p- -A
 
 - **gobuster:**  
-  ```html
+  ```bash
   gobuster dir -u 10.82.166.29 -w /usr/share/dirb/wordlists/common.txt
 
 - **dirbuster:** - narzędzie GUI
