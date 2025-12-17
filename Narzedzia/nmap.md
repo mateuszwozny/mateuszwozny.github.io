@@ -2,7 +2,7 @@
 
 ## Polecenie
 ```bash
-#nmap -sV -sS -p- -A <adres_IP>
+nmap -sV -sS -p- -A <adres_IP>
 
  Opis przełączników:
 
