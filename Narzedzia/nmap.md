@@ -2,9 +2,9 @@
 
 ## Polecenie
 ```bash
-nmap -sV -sS -p- -A <adres_IP>
+#nmap -sV -sS -p- -A <adres_IP>
 
-Opis przełączników:
+ Opis przełączników:
 
 🔹 -sV — Wykrywanie wersji usług
     Nmap próbuje połączyć się z otwartymi portami i ustalić, jaka aplikacja tam działa (np. Apache 2.4.57, OpenSSH 8.9).
