@@ -14,10 +14,11 @@ To repozytorium pełni rolę:
 - [TryHackMe](./THM/README.md)
 - [HackTheBox](./HTB/READMY.md)
 - [PortSwigger Academy](./PortSwigger/README.md)
-- [Linki](./Linki/zbiorlinkow.md)
+
 
 ## 🛠️ Narzędzia
 - [Zbiór narzędzi](./Narzedzia/Narzedzia.md)
+- [Linki](./Linki/zbiorlinkow.md)
 
 
 ## 📜 Licencja
