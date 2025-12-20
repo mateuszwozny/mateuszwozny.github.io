@@ -4,4 +4,6 @@
 - [LookUP](./LookUP.md)
 - [TakeOver](./TakeOver.md)
 - [Corridor](./corridor.md)
+- [Neighbour](./neighbour.md)
+- [Vulnerability Capstone](./AgentSudo.md)
 
