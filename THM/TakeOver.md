@@ -15,7 +15,7 @@
 
 ## 3. Szczegóły podatności
 - **Opis:**
-  Gobuster ujawnił otwarty port HTTP. Analiza strony wskazała ukryte dane logowania w kodzie źródłowym (`R1ckRul3s`).
+  Gobuster ujawnił otwarty port HTTP.
 
    
 - **nmap:**  
@@ -24,7 +24,7 @@
 
 - **gobuster:**  
   ```bash
-  gobuster vhost -o subdom2 -k --append-domain -u futurevera.thm -w /usr/share/seclists/Discovery/Web-Content/common.txt 
+  gobuster vhost -k --append-domain -u 10.82.180.25 -w /usr/share/seclists/Discovery/Web-Content/common.txt 
   ```
   odkryte subdomeny dopisujemy do pliku /etc/hosts
   /etc/hosts pozwala komputerowi „na skróty” przypisać nazwę strony do konkretnego adresu IP — bez pytania DNS.
