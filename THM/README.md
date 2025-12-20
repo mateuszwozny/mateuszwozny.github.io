@@ -5,5 +5,5 @@
 - [TakeOver](./TakeOver.md)
 - [Corridor](./corridor.md)
 - [Neighbour](./neighbour.md)
-- [Vulnerability Capstone](./AgentSudo.md)
+- [Agent Sudo](./AgentSudo.md)
 
