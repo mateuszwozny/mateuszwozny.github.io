@@ -1,4 +1,13 @@
-# Zbiór linków ”
+# Github 
+
+## BugBounty
+---
+```html
+ https://github.com/0xKayala/BugBountyTools
+```
+## Platformy
+---
+# Zbiór linków 
 
 ```html
 https://hashes.com/en/decrypt/hash
