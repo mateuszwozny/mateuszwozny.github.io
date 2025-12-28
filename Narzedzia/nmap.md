@@ -1,10 +1,9 @@
-# Zbiór wszystkich narzędzi
+# NMAP:  
+Nmap to narzędzie służące do skanowania sieci i wykrywania usług, portów oraz systemów operacyjnych działających na zdalnych hostach.
 
-- **Nmap:**
-
-## Polecenie
 ```bash
 nmap -sV -sS -p- -A <adres_IP>
+```
 
  Opis przełączników:
 
@@ -49,52 +48,8 @@ nmap -sV -sS -p- -A <adres_IP>
   -sS → szybki i dyskretny SYN scan
   -p- → skan wszystkich portów
   -A → agresywny tryb (OS, wersje, skrypty, traceroute)
-```
----
-- **gobuster:**  
-  ```bash
-  gobuster dir -u 10.82.166.29 -w /usr/share/dirb/wordlists/common.txt
-  ```
-  ```bash
-  gobuster vhost -k --append-domain -u 10.82.180.25 -w /usr/share/seclists/Discovery/Web-Content/common.txt
-  ```
----
-- **SMB:**
-  Sprawdzenie czy SMB pozwala na dostęp anonimowy
-     ```bash
-  smbclient -L //IP -N
--L - lista udziałów
--N - bez hasła (tryb anonymous)
-  ```bash
-    smbclient //IP/Anonymous -N
-    smb: \>
-    smb: \> get plik.txt
-  ```
----
-- **hydra:**
-    ```bash
-  hydra -l jan -P -u /usr/share/wordlists/rockyou.txt ssh://IP -V (bez -V nie widać postępu skanowania haseł)
-   ```
----
-- **ssh:**
-    ```bash
-  ssh jan@IP
-   ```
-  ```bash
-  ssh -i id(nazwa klucza) kay@IP
-   ```
-  ---
-- **john:**
-  ```bash
-  ssh2john id > hash.txt
-   ``` 
-   John musi mieć zawartość jako hash i dlatego zamieniamy zwykły tekst na hash
 
-  ```bash
-  john hash.txt --wordlist=/usr/share/wordlists/rockyou.txt
-  ```
-  ---
-  - **ffuz** - (Fast web Fuzzer) to narzędzie do szybkiego fuzzingu stron WWW, używane do wykrywania ukrytych katalogów, plików, parametrów i subdomen
-  ```bash
-  ffuf -u http://futurevera.thm -w /usr/share/wordlists/amass/subdomains-top1mil-110000.txt -H "Host: FUZZ.futurevera.thm"  
-  ```
+
+
+
+  
