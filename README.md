@@ -17,7 +17,7 @@ To repozytorium pełni rolę:
 
 
 ## 🛠️ Narzędzia
-- [Zbiór narzędzi](./Narzedzia/Narzedzia.md)
+- [Zbiór narzędzi](./Narzedzia)
 - [Linki](./Linki/zbiorlinkow.md)
 
 
