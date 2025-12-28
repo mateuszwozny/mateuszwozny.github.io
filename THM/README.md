@@ -5,5 +5,6 @@
 - [TakeOver](./TakeOver.md)
 - [Corridor](./corridor.md)
 - [Neighbour](./neighbour.md)
-- [Agent Sudo](./AgentSudo.md)
+- [Agent Sudo](./agentsudo.md)
+- [Easy Peasy](./easypeasy.md)
 
