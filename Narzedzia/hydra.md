@@ -7,6 +7,6 @@ Hydra to narzędzie służące do automatycznego łamania haseł poprzez szybkie
 ### Przełączniki :  
 - l - mała litera mówik że posiadamy dane wej. w tym przypadku login
 - P - duża litera oznacza że tej zmiennej szukamy
-- u - user
+- u - loop user - wymuszenie aby hydra przeszukała cału plik.txt np haseł pod usera (imie)
 - V widać postęp skanu (bez -V nie widać postępu skanowania haseł)
 ---
