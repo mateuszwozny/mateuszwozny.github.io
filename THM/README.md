@@ -7,4 +7,6 @@
 - [Neighbour](./neighbour.md)
 - [Agent Sudo](./agentsudo.md)
 - [Easy Peasy](./easypeasy.md)
+- [Cyber Heros](./cyberheros.md)
+- [Agebt T](./agentt.md)
 
