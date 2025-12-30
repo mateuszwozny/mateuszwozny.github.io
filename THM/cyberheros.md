@@ -53,11 +53,12 @@ sudo nmap -sV -sC -sS IP
     }
   </script>
   ```
-W skrypcie widzimy wartości a jako uname oraz b jako pass
+W skrypcie widzimy wartości **a** jako uname oraz **b** jako pass
 
 
-admin – a.value
-password -
+admin – a.value  
+password - b.value  
+
 ```bash
 echo 54321@terceSrepuS | rev   → SuperSecret@12345
 ```
