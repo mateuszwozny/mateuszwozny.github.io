@@ -12,4 +12,8 @@
 - [Lo-Fi](./lofi.md)
 - [Bunty Hacker](./buntyhacker.md)
 - [Root me](./rootme.md)
-
+- [Over pass](./overpass.md)
+- [Oh Sint](./ohsint.md)
+- [Lazy Admin](./lazyadmin.md)
+- [Brooklyn Nine Nine](./brooklin.md)
+- [Simple CTF](./simplectf.md)
