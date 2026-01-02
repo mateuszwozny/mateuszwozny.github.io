@@ -8,5 +8,8 @@
 - [Agent Sudo](./agentsudo.md)
 - [Easy Peasy](./easypeasy.md)
 - [Cyber Heros](./cyberheros.md)
-- [Agebt T](./agentt.md)
+- [Agent T](./agentt.md)
+- [Lo-Fi](./lofi.md)
+- [Bunty Hacker](./buntyhacker.md)
+- [Root me](./rootme.md)
 
