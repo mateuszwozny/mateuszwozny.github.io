@@ -1,5 +1,5 @@
 
-# TryHackMe „Agent Sudo”
+# TryHackMe „Agent T”
 
 ## 1. Informacje ogólne
 - **Cel testów:** Maszyna, która uczy analizowania uprawnień i wykorzystywania błędnych konfiguracji sudo.  
