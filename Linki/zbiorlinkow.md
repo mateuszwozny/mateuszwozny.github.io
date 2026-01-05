@@ -4,6 +4,10 @@
 ```html
 https://github.com/notthehiddenwiki
 ```
+- ### Wordslisty:
+```bash
+https://github.com/danielmiessler/SecLists/blob/master/Passwords/Common-Credentials/
+```
 ---
 
 ## BugBounty :
