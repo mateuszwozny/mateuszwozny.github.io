@@ -1,4 +1,4 @@
-#Lazy Admin
+# Lazy Admin
 
 nmap 
 gobuster – ukazuje nam katalog content
@@ -17,7 +17,7 @@ Po wejściu otrzymujemy listę userów wraz z hashem hasła
 
 hash-identifier – sprawdzmy  - MD5
 
-##hashcat
+## hashcat
 ```bash
 hashcat -m 0 hash /usr/share/wordlists/rockyou.txt
 ```
