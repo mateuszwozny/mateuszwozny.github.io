@@ -17,3 +17,4 @@
 - [Lazy Admin](./lazyadmin.md)
 - [Brooklyn Nine Nine](./brooklin.md)
 - [Simple CTF](./simplectf.md)
+- [Billing](./billing.md)
